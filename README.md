@@ -4,10 +4,8 @@ node-random-port
 get a free random tcp port and pass to the callback
 
 
-Usage:
-
 ```javascript
-var random_port = require('./index.js');
+var random_port = require('random-port');
 
 random_port(console.log); // default will return a port from 15000 to 15099
 
