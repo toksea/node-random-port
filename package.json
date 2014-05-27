@@ -1,0 +1,24 @@
+{
+  "name": "random-port",
+  "version": "0.0.0",
+  "description": "get a random free tcp port and pass to the callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toksea/node-random-port.git"
+  },
+  "keywords": [
+    "tcp",
+    "random",
+    "port"
+  ],
+  "author": "Xiaopei Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toksea/node-random-port/issues"
+  },
+  "homepage": "https://github.com/toksea/node-random-port"
+}
